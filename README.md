@@ -28,5 +28,5 @@ Retrieve stocks data, not only prices, but also other useful information to perf
 
 ## Acknowledgements
  * Author: Lukasz Banasiak
- * https://pypi.org/user/bns/
- * https://pypi.org/project/yahoo-finance/
+ * Maintainer: https://pypi.org/user/bns/
+ * Library Project: https://pypi.org/project/yahoo-finance/
